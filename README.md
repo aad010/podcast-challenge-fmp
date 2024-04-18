@@ -1,4 +1,4 @@
 Frontend mentor's podcast challenge
 
-
-netlify link: https://podcast-aad010.netlify.app/
+challenge description: https://www.frontendmentor.io/challenges/pod-request-access-landing-page-eyTmdkLSG/hub
+my solution: https://podcast-aad010.netlify.app/
