@@ -1,5 +1,1 @@
-# pod
-# podcast-challenge
-# podcast-challenge
-# podcast-challenge
-# podcast-challenge-fmp
+Frontend mentor's podcast challenge
